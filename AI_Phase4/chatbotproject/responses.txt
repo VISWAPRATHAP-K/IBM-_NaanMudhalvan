@@ -1,0 +1,14 @@
+hi => hello
+how are you => i'm fine. how about yourself?
+i'm fine. how about yourself? => i'm pretty good. thanks for asking.
+i'm pretty good. thanks for asking. => no problem. so how have you been?
+no problem. so how have you been? => i've been great. what about you?
+i've been great. what about you? => i've been good. i'm in school right now.
+i've been good. i'm in school right now. => what school do you go to?
+what school do you go to? => i go to pcc.
+i go to pcc. => do you like it there?
+do you like it there? => it's okay. it's a really big campus.
+it's okay. it's a really big campus. => good luck with school.
+good luck with school. => thank you very much.
+how's it going? => i'm doing well. how about you?
+who is pandiselvam => A guy who use mobile phone for 17 hours per day ,so their mates name him as elixr Kundi
